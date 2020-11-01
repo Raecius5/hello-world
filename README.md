@@ -1,2 +1,7 @@
 # hello-world
-Just another repository.
+
+Hi, André here!
+
+Just testing, don't mind me.
+
+PS: Moon tacos.
